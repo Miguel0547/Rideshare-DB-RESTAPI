@@ -1,0 +1,6 @@
+# key-value pair
+host: localhost
+database: swen344
+user: swen344
+password: Kidjordan98
+port: 5432
